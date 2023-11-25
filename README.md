@@ -1,4 +1,4 @@
-![Banner Minimalista Branco e Vermelho Capa Página Empresarial no LinkedIn (https://github.com/srcmilenaa/srcmilenaa/assets/152016113/931d11b5-b476-4a4e-92cb-7cda0639134d)
+![Banner Minimalista Branco e Vermelho Capa Página Empresarial no LinkedIn](https://github.com/srcmilenaa/srcmilenaa/assets/152016113/cd0ceaf2-ab73-47aa-a871-eb8fc8fe436f)
 
 <p align="center">
 <a  href="https://www.linkedin.com/in/milena-gomes-b697072a1/"  target="_blank"><img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="python"/></a>
